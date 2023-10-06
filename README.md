@@ -1,3 +1,6 @@
+# 参考にした動画
+[【Ruby on Rails入門】初心者OK！掲示板アプリを作りながら学ぶRuby on Rails入門](https://www.youtube.com/watch?v=CfdRXSrwLDo)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
